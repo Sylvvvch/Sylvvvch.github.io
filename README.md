@@ -1,6 +1,3 @@
-# Hi I am Sylvie Chen
-## I am in Seattle wish u a happy new year!🎆
-
 Welcome to my fancy GitHub website! Here, you'll find all sorts of amazing content.
 
 [About](#about) | [Features](#features) | [Usage](#usage) | [Contribute](#contribute) | [License](#license)
@@ -44,7 +41,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ## Contact Information
-- **Phone:** (206) 571-1284
 - **Email:** yanran.chen@bellevuecollege.edu
 - **LinkedIn:** [Yanran Chen](https://sylvvvch.github.io/#about)
 
