@@ -5,6 +5,7 @@ Welcome to my fancy GitHub website! Here, you'll find all sorts of amazing info 
 ---
 
 ## About
+<img src="https://github.com/Sylvvvch/Sylvvvch.github.io/blob/da735bd1bb3bdb2863cb33e5cf40c2f1982fbd55/loopy.png" width="100" alt="Description of Image">
 
 I'm Yanran Chen, a freshman at Bellevue College studying Electrical/Computer Engineering. This website is designed to showcase the amazing information about me. It's built with love and passion!
 
