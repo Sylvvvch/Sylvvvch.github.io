@@ -1,6 +1,6 @@
 Welcome to my fancy GitHub website! Here, you'll find all sorts of amazing info about me.
 
-[About](#about) | [Contact](#contact_information)
+[About](#about) | [Contact](#contact)
 
 ---
 
@@ -10,7 +10,7 @@ I'm Yanran Chen, a freshman at Bellevue College studying Electrical/Computer Eng
 
 ---
 
-## Contact Information
+## Contact
 - **Email:** yanran.chen@bellevuecollege.edu
 - **LinkedIn:** [Yanran Chen](https://sylvvvch.github.io/#about)
 
