@@ -1,42 +1,12 @@
-Welcome to my fancy GitHub website! Here, you'll find all sorts of amazing content.
+Welcome to my fancy GitHub website! Here, you'll find all sorts of amazing info about me.
 
-[About](#about) | [Features](#features) | [Usage](#usage) | [Contribute](#contribute) | [License](#license)
+[About](#about) | [Contact Information](#contact)
 
 ---
 
 ## About
 
 I'm Yanran Chen, a freshman at Bellevue College studying Electrical/Computer Engineering. This project is designed to showcase the amazing features of my software. It's built with love and passion!
-
----
-
-## Features
-
-- Awesome Feature 1
-- Amazing Feature 2
-- Fantastic Feature 3
-
----
-
-## Usage
-
-To use this project, simply follow these steps:
-
-1. Clone the repository.
-2. Install the dependencies.
-3. Run the application.
-
----
-
-## Contribute
-
-Contributions are welcome! Please fork the repository and submit a pull request with your changes.
-
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -47,6 +17,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ## Education
+- **GPA**: 3.92
 - **Bellevue College**
   - Freshman, Electrical/Computer Engineering
   - Expected Graduation: [Insert Expected Graduation Date]
@@ -77,14 +48,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ## Experience
-- [If applicable, list any relevant work experience, internships, or extracurricular activities]
-
----
-
-## Certifications or Awards
-- [If applicable, list any relevant certifications or awards]
-
----
+- Bellevue College Lunar New Year ceremony volunteer (6 hours)
+- Bellevue College freshman orientation volunteer (7 hours)
 
 ## Interests
-- [Any relevant interests or hobbies]
+- tennis
+- history book
+- snowboarding
