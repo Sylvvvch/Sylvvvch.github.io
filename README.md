@@ -1,6 +1,6 @@
 Welcome to my fancy GitHub website! Here, you'll find all sorts of amazing info about me.
 
-[About](#about) | [Contact Information](#contact)
+[About](#about) | [Contact](#contact_information)
 
 ---
 
