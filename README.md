@@ -1,12 +1,12 @@
 Welcome to my fancy GitHub website! Here, you'll find all sorts of amazing info about me.
 
-[About](#about) | [Contact](#contact)
+[About](#about) | [Contact](#contact) | [Education](#education) | [Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Interests](#interests)
 
 ---
 
 ## About
 
-I'm Yanran Chen, a freshman at Bellevue College studying Electrical/Computer Engineering. This project is designed to showcase the amazing features of my software. It's built with love and passion!
+I'm Yanran Chen, a freshman at Bellevue College studying Electrical/Computer Engineering. This website is designed to showcase the amazing information about me. It's built with love and passion!
 
 ---
 
@@ -37,19 +37,16 @@ I'm Yanran Chen, a freshman at Bellevue College studying Electrical/Computer Eng
 - **Personal Website**
   - Utilized GitHub for hosting
   - Implemented GitHub Actions to auto-deploy README.md changes
-  - [Provide any additional details about the project]
 
 - **CS210 Course Project**
-  - [Brief description of the project and your role]
-
-- **CS61A Course Project**
-  - [Brief description of the project and your role]
+  - Calculator taking input of formula and output the number, built in java
 
 ---
 
 ## Experience
-- Bellevue College Lunar New Year ceremony volunteer (6 hours)
-- Bellevue College freshman orientation volunteer (7 hours)
+- Lunar New Year ceremony volunteer@Bellevue College (6 hours)
+- Freshman orientation volunteer@Belleveu College (7 hours)
+- Belleuve Chinese Student Association activity officer (Spring 2024)
 
 ## Interests
 - tennis
